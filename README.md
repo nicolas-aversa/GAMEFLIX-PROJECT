@@ -41,7 +41,7 @@ Cada directorio tiene su propio conjunto de dependencias, scripts de inicio y co
 Para levantar el proyecto de manera local, sigue estos pasos:
 
    ```bash
-   git clone https://github.com/nicolas-aversa/gameflix.git
+   git clone https://github.com/nicolas-aversa/GAMEFLIX-PROJECT.git
    cd gameflix
    ```
 #### Levantar backend
